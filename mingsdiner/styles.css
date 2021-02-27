@@ -1,0 +1,58 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    color: #222;
+    background-color: yellow;
+}
+
+.navbar a{
+    color: white;
+    font-weight: bold;    
+}
+.navbar a:hover{
+    color: yellow;
+    font-weight: bold;    
+}
+.redBar{
+    border-bottom: 1px solid red;
+}
+.padding{
+    padding: 3em 0;
+}
+nav div img{
+    height: 50%;
+    width: 50%;
+}
+.navbar{
+    padding: .8em;
+    background-color: red;
+}
+.navbar-nav li{
+    padding-right: 50px;
+}
+.nav-link{
+    font-size: 1.1em;
+}
+.carousel-inner img{
+    width: 60%;
+    height: 60%;
+    max-width: 40%;
+    max-height: 40%;
+}
+.carousel-item{
+    margin: auto;
+}
+.carousel-caption h3{
+    font-size: 300%;
+    font-weight: 500px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 15px red;
+    color: yellow;
+}
+label{
+    font-weight: bold;
+}
+.order{
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+}
